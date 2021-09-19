@@ -1,1 +1,1 @@
-# Exercise_0
+# Beautiful is better than ugly.
